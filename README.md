@@ -2,149 +2,35 @@
 
 ## I'm a third year computer science major at UC Santa Barbara!
 
+
 - I’m currently learning HTML and CSS 📖
 - Seeking internships in software development! 🌱
 - 2021 Goals: Learn more about web development 💪
 - Fun fact: I love to read light novels, play Guzheng, and listen to music in my free time 🎵
 - President/Founder of UCSB Badminton Club, Secretary of UCSB Taiwanese American Students Association, and Undergraduate Learning Assistant for CMPSC16 at UCSB 🎓
+- Contact me at: bryanxu@ucsb.edu ✉️
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bryan-bx-xu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bryan-bx-xu" height="30" width="40" /></a>
+<a href="https://fb.com/xuperbryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="xuperbryan" height="30" width="40" /></a>
+<a href="https://instagram.com/xuperbryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xuperbryan" height="30" width="40" /></a>
+</p>
 
- <!---  [<img align="left" alt="bryanxu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]--->
-[<img align="left" alt="bryan-bx-xu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="XuperBryan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-<img src="cplusplus.svg"
-     alt="C++ icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-C++ <br />
-
-<img src="java.svg"
-     alt="Java icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-Java <br />
-
-<img src="javascript.svg"
-     alt="JavaScript icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-JavaScript <br />
-
-<img src="c.svg"
-     alt="C icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-C <br />
-
-<img src="python.svg"
-     alt="Python icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-Python <br />
-
-<img src="r.svg"
-     alt="R icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-R <br />
-
-<img src="sql.svg"
-     alt="SQL icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-SQL <br />
-
-<img src="mips.svg"
-     alt="MIPS icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-MIPS Assembly Language <br />
-
-<img src="springboot.png"
-     alt="SQL icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-Spring Boot <br />
-
-<img src="react.svg"
-     alt="React icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-React <br />
-
-<img src="latex.svg"
-     alt="LaTeX icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-LaTeX <br />
-
-<img src="git.svg"
-     alt="Git icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-Git <br />
-
-<img src="github.svg"
-     alt="GitHub icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-GitHub <br />
-
-<img src="heroku.svg"
-     alt="Heroku icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-Heroku <br />
-
-<img src="visualstudiocode.svg"
-     alt="VS Code icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-VS Code <br />
-
-<img src="cicd.png"
-     alt="CI/CD icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-CI/CD systems <br />
-
-<img src="adobeillustrator.svg"
-     alt="Adobe Illustrator icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-Adobe Illustrator <br />
-
-<img src="adobeindesign.svg"
-     alt="Adobe Indesign icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-Adobe Indesign <br />
-
-<img src="adobephotoshop.svg"
-     alt="Adobe Photoshop icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-Adobe Photoshop <br />
-
-<img src="microsoftoffice.svg"
-     alt="Microsoft Office icon"
-     width="22px"
-     style="float: left; margin-right: 10px;" />
-Microsoft Office <br />
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <br />
 <br />
+<img align="left" alt="XuperBryan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=XuperBryan&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=tokyonight&include_all_commits=true" />
 
-
-  <img align="left" alt="XuperBryan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=XuperBryan&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=tokyonight&include_all_commits=true" />
-
-
-[website]: https://codeSTACKr.com
-[instagram]: https://instagram.com/XuperBryan
-[linkedin]: https://linkedin.com/in/bryan-bx-xu
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuperbryan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xuperbryan" /></p>

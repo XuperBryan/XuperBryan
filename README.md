@@ -23,7 +23,7 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/b60b80160219c1a1a9070edbb01de3014dc9b4fa/icons/r.svg" alt="R" width="40" height="40"/> </a> 
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://styleguide.datacamp.com/assets/toolkit/images/enterprise/components/icons/r-icon-4c3fd002c1.svg" alt="R" width="40" height="40"/> </a> 
      <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://www.svgrepo.com/show/13344/sql-file-format.svg" alt="SQL" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  </a> 
      <a href="https://www.latex-project.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="latex" width="40" height="40"/> </a> 

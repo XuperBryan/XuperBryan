@@ -3,10 +3,10 @@
 ## I'm a third year computer science major at UC Santa Barbara!
 
 
-- I’m currently learning HTML and CSS 📖
+- I’m currently learning HTML and CSS 📚
 - Seeking internships in software development! 🌱
 - 2021 Goals: Learn more about web development 💪
-- Fun fact: I love to read light novels, play Guzheng, and listen to music in my free time 🎵
+- Fun fact: I love to read light novels, play badminton, and listen to kpop in my free time 🎵
 - President/Founder of UCSB Badminton Club, Secretary of UCSB Taiwanese American Students Association, and Undergraduate Learning Assistant for CMPSC16 at UCSB 🎓
 - Contact me at: bryanxu@ucsb.edu ✉️
 

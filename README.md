@@ -40,12 +40,5 @@
 <a href="https://www.adobe.com/products/indesign.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_InDesign_Icon_%28CS6%29.svg/720px-Adobe_InDesign_Icon_%28CS6%29.svg.png" alt="indesign" width="40" height="40"/> </a>
 <a href="https://www.office.com/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/microsoft-office-512.png" alt="Microsoft Office" width="40" height="40"/> </a> </p>
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuperbryan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xuperbryan" /></p>

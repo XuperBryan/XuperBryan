@@ -7,7 +7,7 @@
 - Seeking internships in software development! 🌱
 - 2021 Goals: Learn more about web development 💪
 - Fun fact: I love to read light novels, play badminton, and listen to kpop in my free time 🎵
-- President/Founder of UCSB Badminton Club and Secretary of UCSB Taiwanese American Students Association. Former Undergraduate Learning Assistant for CMPSC16 at UCSB 🎓
+- President/Founder of UCSB Badminton Club and Head Organizer for Southern California Collegiate Badminton League. Former Undergraduate Learning Assistant for CMPSC16 at UCSB 🎓
 - Check out my website here: https://xuperbryan.github.io/ 🌏
 - Contact me at: bryanxu@ucsb.edu ✉️
 

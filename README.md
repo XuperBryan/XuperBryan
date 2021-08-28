@@ -1,6 +1,6 @@
 ## Hi there! I'm Bryan Xu.
 
-### I'm a third year computer science major at UC Santa Barbara!
+### I'm a fourth year computer science major at UC Santa Barbara!
 
 
 - I’m currently learning HTML and CSS 📚

@@ -43,10 +43,6 @@
 
 <br />
 <br />
-<img align="left" alt="XuperBryan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=XuperBryan&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=tokyonight&include_all_commits=true" />
-
-<br />
-<br />
 <br />
 <br />
 <br />

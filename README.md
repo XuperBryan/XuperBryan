@@ -3,9 +3,9 @@
 ### I'm a fourth year computer science major at UC Santa Barbara!
 
 
-- I’m currently learning HTML and CSS 📚
-- Seeking internships in software development! 🌱
-- 2021 Goals: Learn more about web development 💪
+- I’m currently learning React 📚
+- No longer seeking internships in software development! 🌱
+- 2021 Goals: Learn more about full stack web development 💪
 - Fun fact: I love to read light novels, play badminton, and listen to kpop in my free time 🎵
 - President/Founder of UCSB Badminton Club and Head Organizer for Southern California Collegiate Badminton League. Former Undergraduate Learning Assistant for CMPSC16 at UCSB 🎓
 - Check out my website here: https://xuperbryan.github.io/ 🌏

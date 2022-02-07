@@ -43,4 +43,7 @@
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuperbryan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xuperbryan" /></p>
 
+<br /><br /><br /><br /><br />
+<br />
+
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=XuperBryan&hide=stars&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)

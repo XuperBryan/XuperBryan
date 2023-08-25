@@ -1,11 +1,11 @@
 ## Hi there! I'm Bryan Xu.
 
-### I'm a 5 year BS/MS computer science major at UC Santa Barbara!
+### I'm a software engineer with a MS in Computer Science from UC Santa Barbara!
 
 
-- I’m currently learning React 📚
-- Current expected graduation date is June 2023! 🌱
-- 2022-2023 Goals: Learn more about full stack web development 💪
+- I’m currently learning Ruby on Rails 📚
+- Graduation Date: June 2023! 🌱
+- Current goals: Learn more about full stack web development 💪
 - Fun fact: I love to read light novels, play badminton, and listen to kpop in my free time 🎵
 - Former President/Founder of UCSB Badminton Club and Head Organizer for Southern California Collegiate Badminton League. Former Undergraduate Learning Assistant for CMPSC16 at UCSB 🎓
 - Check out my website here: https://xuperbryan.github.io/ 🌏
